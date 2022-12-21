@@ -1,6 +1,6 @@
-# IAP Feed
+# IAP Communities
 
-IAP Feed is a web application that aims to solve the information overload of the IAP Univerisity Emails. In the application, users will:
+IAP Communities is a web application that aims to solve the information overload of the IAP Univerisity Emails. In the application, users will:
 
 - have the ability to view posts which suit the needs tailored to them.
 - share posts in the general section pertaining their Student Life at IAP University.
@@ -10,7 +10,7 @@ IAP Feed is a web application that aims to solve the information overload of the
 
 This project is currently under development.
 
-## How to Install IAP Feed application
+## How to Install IAP Communities application
 
 To successfully install this application, you must have composer installed in your machine. 
 
