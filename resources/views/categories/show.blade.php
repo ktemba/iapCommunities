@@ -34,7 +34,7 @@
                 {!!Form::close()!!}
             </div>    
             @endauth
-            <div class="text-center p-3 font-weight-bold" style="font-size: 1.1rem; color: #DAA520;">{{$catinfo->users->count() ?? 'None'}} {{Str::plural('Member',$catinfo->users->count() ?? 'None')}}</div>
+            <div class="text-center p-3 font-weight-bold" style="font-size: 1.1rem; color: #DAA520;">{{$catinfo->users->count()}} {{Str::plural('Member',$catinfo->users->count())}}</div>
             
             
         </div>

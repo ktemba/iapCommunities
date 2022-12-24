@@ -7,7 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Support\Facades\DB;
 use App\Models\User;
-use App\Models\Category;
 use App\Models\Post;
 use App\Models\Like;
 use App\Models\Flag;
