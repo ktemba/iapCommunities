@@ -189,6 +189,10 @@
                             </li>
 
                             <li class="nav-item">
+                                <a class="nav-link" id="link" href="/messenger">Strath Messenger</a>
+                            </li>
+
+                            <li class="nav-item">
                                 <a class="nav-link" id="link" href="{{ url('other') }}">Related Links</a>
                             </li>
 
