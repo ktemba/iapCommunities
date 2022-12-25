@@ -17,6 +17,7 @@
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.3",
         "laravelcollective/html": "^6.2",
+        "munafio/chatify": "^1.5",
         "tcg/voyager": "^1.4"
     },
     "require-dev": {
